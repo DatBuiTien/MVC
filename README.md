@@ -10,5 +10,3 @@ Start the MongoDB server: `mongod --dbpath <path_to_data_folder>`
 Run the app: `npm start`
 
 For example, here is a screenshot of the admin page.
-
-![App screenshot](screenshot.png)
